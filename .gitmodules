@@ -4,3 +4,6 @@
 [submodule "olena-git"]
 	path = repo/olena
 	url = https://github.com/OCR-D/olena
+[submodule "repo/xmlstarlet"]
+	path = repo/xmlstarlet
+	url = https://github.com/sulzbals/xmlstarlet.git
