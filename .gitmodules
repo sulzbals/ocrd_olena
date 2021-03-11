@@ -7,3 +7,4 @@
 [submodule "repo/xmlstarlet"]
 	path = repo/xmlstarlet
 	url = https://github.com/sulzbals/xmlstarlet.git
+	branch = conda
